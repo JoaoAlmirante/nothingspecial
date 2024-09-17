@@ -78,31 +78,19 @@
 #### ('Broly Ssj', 'Goku Ssj')
 
 ```python
-!fuse 192 184
-```
-
-#### ('Goku Black Ssjrose', 'Super Vegeta')
-
-```python
-!fuse 276 222
+!fuse 192 190
 ```
 
 #### ('Gohan', 'Goku')
 
 ```python
-!fuse 14 4
+!fuse 14 254
 ```
 ```python
-!fuse 67 5
+!fuse 67 255
 ```
 ```python
-!fuse 178 7
-```
-```python
-!fuse 187 96
-```
-```python
-!fuse 270 103
+!fuse 178 730
 ```
 
 #### ('Frieza', 'Perfect Cell')
@@ -114,33 +102,6 @@
 !fuse 78 121
 ```
 
-#### ('Goku Black', 'Vegeta')
-
-```python
-!fuse 119 3
-```
-```python
-!fuse 343 22
-```
-```python
-!fuse 344 143
-```
-```python
-!fuse 345 152
-```
-
-#### ('Trunks', 'Vegeta')
-
-```python
-!fuse 42 22
-```
-```python
-!fuse 90 143
-```
-```python
-!fuse 144 152
-```
-
 #### ('Xeno Gohan', 'Xeno Trunks')
 
 ```python
@@ -148,51 +109,6 @@
 ```
 ```python
 !fuse 210 212
-```
-
-#### ('Goku Black', 'Vegeta Ssj4')
-
-```python
-!fuse 343 497
-```
-
-#### ('Raditz', 'Vegeta')
-
-```python
-!fuse 27 143
-```
-```python
-!fuse 32 152
-```
-```python
-!fuse 81 249
-```
-```python
-!fuse 106 250
-```
-
-#### ('Goku', 'Mirai Trunks')
-
-```python
-!fuse 5 165
-```
-```python
-!fuse 7 172
-```
-```python
-!fuse 96 177
-```
-```python
-!fuse 103 180
-```
-```python
-!fuse 238 182
-```
-```python
-!fuse 251 183
-```
-```python
-!fuse 252 185
 ```
 
 #### ('Kamin', 'Oren')
@@ -224,7 +140,6 @@
 ```python
 !fuse 474 473
 ```
-
 #### ('Xeno Goku Ssj4', 'Xeno Vegeta Ssj4')
 
 ```python
